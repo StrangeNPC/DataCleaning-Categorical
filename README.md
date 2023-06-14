@@ -8,10 +8,7 @@ In order to allieviate this, the code calculates the jaccard similarity and outp
 
 You can then key in the cut-off percentage to replace all text above the cut-off. Making data cleaning significantly easier.
 
-
-
-
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rX19yeC3frf-eQCEqtj5a0ljNJHpP4qW?usp=sharing)
 
 
 ## Installation
